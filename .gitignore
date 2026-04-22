@@ -1,0 +1,7 @@
+*.mov
+*.npy
+outputs/
+embeddings/
+__pycache__/
+*.zip
+*.tar
